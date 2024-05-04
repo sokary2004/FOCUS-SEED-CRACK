@@ -11,3 +11,4 @@
 | +.XDAI==>10000
 | +.GLMR==>10000
 | +.CELO==>10000
+download full version : https://t.me/FocusExperience
